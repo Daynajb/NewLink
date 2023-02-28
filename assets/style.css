@@ -1,0 +1,18 @@
+/* These styles are just to make it easier to see the blocks, initially. */
+
+body { padding: 2em;
+   background-color: #FAF8E5;
+}
+
+a { color: blue; }
+em { font-style: italic; }
+strong { font-weight: bold; }
+
+body,
+section,
+ul,
+figure {
+	display: grid;
+	gap: 1em;
+}
+
